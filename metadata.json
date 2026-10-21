@@ -1,0 +1,6 @@
+{
+  "name": "VietSpeak - Luyện nói tiếng Việt B05",
+  "description": "Nền tảng học và luyện nói tiếng Việt cho người nước ngoài - Lộ trình liên tục B05, phòng luyện nói, trợ lý AI học tập, từ điển flashcards và văn hóa giao tiếp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
